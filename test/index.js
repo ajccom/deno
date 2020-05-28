@@ -1,0 +1,1 @@
+console.log('test public deno module success')
